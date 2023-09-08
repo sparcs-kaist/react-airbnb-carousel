@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 
-const RightStyle = css`
+const LeftStyle = css`
   right: 0;
   background: rgb(255, 255, 255);
   background: linear-gradient(
@@ -10,7 +10,7 @@ const RightStyle = css`
     rgba(0, 0, 0, 0.5) 100%
   );
 `;
-const LeftStyle = css`
+const RightStyle = css`
   left: 0;
   background: rgb(2, 0, 36);
   background: linear-gradient(
