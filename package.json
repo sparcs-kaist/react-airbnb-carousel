@@ -11,10 +11,10 @@
     "slider"
   ],
   "main": "dist/AirbnbCarousel.js",
-  "homepage": "https://github.com/jungdj/react-airbnb-carousel",
+  "homepage": "https://github.com/sparcs-kaist/react-airbnb-carousel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jungdj/react-airbnb-carousel.git"
+    "url": "https://github.com/sparcs-kaist/react-airbnb-carousel.git"
   },
   "files": [
     "dist"
@@ -73,5 +73,8 @@
     "react-powerplug": "1.0.0",
     "react-swipeable-views": "0.12.16",
     "react-swipeable-views-utils": "0.12.16"
+  },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
   }
 }
