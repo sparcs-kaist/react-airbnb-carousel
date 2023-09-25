@@ -73,8 +73,5 @@
     "react-powerplug": "1.0.0",
     "react-swipeable-views": "0.12.16",
     "react-swipeable-views-utils": "0.12.16"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
